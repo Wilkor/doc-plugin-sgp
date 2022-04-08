@@ -7,7 +7,7 @@ O **Plugin SGP**, foi criado para facilitar a integração com o sistema de prov
 
 WebSite: http://sgp8.hospedagemdesites.ws/
 
-Nele você pode contar com duas principais integrações: **Segunda vida de boleto e Desbloqueio em confiança.**
+Nele você pode contar com duas principais integrações: **Segunda via de boleto e Desbloqueio em confiança.**
 
 # Criando APP
 
