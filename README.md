@@ -51,7 +51,7 @@ Em breve mais detalhes do processo de instalação e utilização.
   - Volte ao builder e veja se a fluxo foi carregado
   - Publique o fuxo e começe a usar!  😱😱😱😱
   
-![N|Solid](https://raw.githubusercontent.com/Wilkor/doc-plugin-sgp/main/capa-plugin.png)
+![N|Solid](https://raw.githubusercontent.com/Wilkor/doc-plugin-sgp/main/capa-plugin-2.png)
  
 
 
