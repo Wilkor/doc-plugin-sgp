@@ -9,7 +9,7 @@ WebSite: http://sgp8.hospedagemdesites.ws/
 
 Nele você pode contar com duas principais integrações: **Segunda via de boleto e Desbloqueio em confiança.**
 
-# Criando APP
+# Criando APP no sistema SGP
 
  - Acesso o menu sistema > ferramentas > Painel Admin 
  - Navegue ate encontrar CAUTH > clique em aplicações > Adicionar Aplicação.
