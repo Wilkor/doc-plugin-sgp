@@ -44,7 +44,8 @@ Em breve mais detalhes do processo de instalação e utilização.
  
   - Cria o bot e dar um nome a ele
   - Acessar o Builder e  fazer uma publicação (Para adicionar o bot como um serviço é preciso publicar mesmo que não tenha nada lá rs)
-  - Navergar no menu horizontal do blip -> menu "..."  -> Extensões e ativar o plugin **Sistema SGP**
+  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões.
+  - Procure por **Plugin SGP** e clique em ativar
   - Apos instalado e ativado, adicionar as variaveis TOKEN, APP E DOMINÍO
   - Clicar em **Criar Estrutura**
   - Feito isso, vai aparecer uma popup no rodapé com a informalção de sucesso ou erro
