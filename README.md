@@ -51,6 +51,10 @@ Em breve mais detalhes do processo de instalação e utilização.
   - Feito isso, vai aparecer uma popup no rodapé com a informalção de sucesso ou erro
   - Volte ao builder e veja se a fluxo foi carregado
   - Publique o fuxo e começe a usar!  😱😱😱😱
+
+Clique no link abaixo e veja como é simples utilizar esse plugin.
+
+https://youtu.be/faocqIm5UNk
   
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/doc-plugin-sgp/main/capa-plugin-2.png)
  
