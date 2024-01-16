@@ -1,6 +1,5 @@
 
-
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
+![icone_github](https://github.com/Wilkor/doc-plugin-sgp/assets/34819624/f1794f85-9989-4701-a715-94e8ea33b67d)
 
 
 O **Plugin SGP**, foi criado para facilitar a integração com o sistema de provedores SGP. 
